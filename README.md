@@ -1,6 +1,5 @@
 #### parkinsons_resources_SLP_speech_language_swollowing
 
-
 # Parts of Breathing and Speaking
 
 ## 1. automatic or intentional
@@ -8,7 +7,6 @@
 	- adding intermediate steps (1, something, 2, something, 3, something; or count punch 
 name object and color)
 	- synchronized processes (count and punch and step)
-	- 
 
 ## 2. breath control: 
 	- taking a breath
