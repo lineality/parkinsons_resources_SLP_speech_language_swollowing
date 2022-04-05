@@ -35,4 +35,6 @@ name object and color)
 
 ## 11. needing repeated prompts, questions, reminders, or not.
 
-
+# Parkinson Voice Project 
+#### practice videos
+https://www.parkinsonvoiceproject.org/SpeechExercises
