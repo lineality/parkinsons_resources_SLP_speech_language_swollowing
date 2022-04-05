@@ -1,6 +1,4 @@
-# parkinsons_resources_SLP_speech_language_swollowing
-
-SLP Parkinson's Notes (github-markdown)
+#### parkinsons_resources_SLP_speech_language_swollowing
 
 
 # Parts of Breathing and Speaking
@@ -38,3 +36,5 @@ name object and color)
 ## 10.  articulation ('over-articulation'[good] vs. slurring[bad]) 
 
 ## 11. needing repeated prompts, questions, reminders, or not.
+
+
